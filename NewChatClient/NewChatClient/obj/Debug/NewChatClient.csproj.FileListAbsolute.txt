@@ -1,0 +1,7 @@
+C:\Users\Casper\source\repos\NewChatClient\NewChatClient\bin\Debug\NewChatClient.exe.config
+C:\Users\Casper\source\repos\NewChatClient\NewChatClient\bin\Debug\NewChatClient.exe
+C:\Users\Casper\source\repos\NewChatClient\NewChatClient\bin\Debug\NewChatClient.pdb
+C:\Users\Casper\source\repos\NewChatClient\NewChatClient\obj\Debug\NewChatClient.csproj.AssemblyReference.cache
+C:\Users\Casper\source\repos\NewChatClient\NewChatClient\obj\Debug\NewChatClient.csproj.CoreCompileInputs.cache
+C:\Users\Casper\source\repos\NewChatClient\NewChatClient\obj\Debug\NewChatClient.exe
+C:\Users\Casper\source\repos\NewChatClient\NewChatClient\obj\Debug\NewChatClient.pdb
